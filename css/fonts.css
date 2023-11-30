@@ -1,0 +1,40 @@
+/* font-family: "RalewayRegular"; */
+@font-face {
+    font-family: "RalewayRegular";
+    src: url("../fonts/RalewayRegular.eot");
+    src: url("../fonts/RalewayRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RalewayRegular.woff") format("woff"),
+    url("../fonts/RalewayRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RalewaySemiBold"; */
+@font-face {
+    font-family: "RalewaySemiBold";
+    src: url("../fonts/RalewaySemiBold.eot");
+    src: url("../fonts/RalewaySemiBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RalewaySemiBold.woff") format("woff"),
+    url("../fonts/RalewaySemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RalewayBold"; */
+@font-face {
+    font-family: "RalewayBold";
+    src: url("../fonts/RalewayBold.eot");
+    src: url("../fonts/RalewayBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RalewayBold.woff") format("woff"),
+    url("../fonts/RalewayBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "BaronBold"; */
+@font-face {
+    font-family: "BaronBold";
+    src: url("../fonts/BaronBold.eot");
+    src: url("../fonts/BaronBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/BaronBold.woff") format("woff"),
+    url("../fonts/BaronBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
